@@ -86,8 +86,8 @@ const BirthdayWish = () => {
         <Card className="w-full mx-auto border-2 border-black p-4 md:p-6 overflow-hidden shadow-md md:shadow-xl max-h-[90vh] md:max-h-full">
           <CardHeader className="text-center">
             <CardTitle className="text-3xl md:text-4xl font-bold text-black">Happy Birthday!</CardTitle>
-            <CardDescription className="text-xl  md:text-2xl font-semibold text-black">Alishba</CardDescription>
-            <p className="text-md md:text-xl text-black">August 22nd</p>
+            <CardDescription className="text-xl  md:text-2xl font-semibold text-black">Annas</CardDescription>
+            <p className="text-md md:text-xl text-black">June 24th</p>
           </CardHeader>
 
           <CardContent className="space-y-6 text-center">
@@ -156,7 +156,7 @@ const BirthdayWish = () => {
           </CardFooter>
 
           <p className="text-15px md:text-lg font-semibold text-black text-center mb-4">
-            Build with ❤️ For My Birthday Girl
+            Build with ❤️ By Muhammad Annas
           </p>
         </Card>
       </motion.div>
